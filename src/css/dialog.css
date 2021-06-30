@@ -1,0 +1,8 @@
+.moduleMiniView {
+  display: flex;
+  flex-direction: column;
+}
+.moduleLikes {
+  display: flex;
+  align-items: center;
+}

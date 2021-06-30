@@ -1,0 +1,39 @@
+.moduleConfig {
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+}
+.moduleInfo {
+  align-items: center;
+}
+.configuration {
+  display: flex;
+  flex-direction: column;
+}
+.configurationTitle {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-self: center;
+}
+.moduleName {
+  font-weight: bold;
+}
+.inputItem {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.configurationKey {
+  display: flex;
+  width: 7em;
+}
+
+.saveButton {
+  display: flex;
+  align-self: flex-end;
+  margin-top: 1em !important;
+  width: 2em;
+}
